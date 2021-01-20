@@ -18,7 +18,7 @@ int main()
         "A2,Suzan,Erickson,Erickson_1990@gmailcom,19,50,30,40,NETWORK",
         "A3,Jack,Napoli,The_lawyer99yahoo.com,19,20,40,33,SOFTWARE",
         "A4,Erin,Black,Erin.black@comcast.net,22,50,58,40,SECURITY",
-        "A5,Jason,Minerich,jmineri@my.wgu.edu,34,60,40,25,SOFTWARE"
+        "A5,Jason,Minerich,######@##.###.edu,34,60,40,25,SOFTWARE"
     };
     /*F_2-F_4: classRoster main functions*/
     Roster* classRoster = new Roster(studentData, 5, 5);
